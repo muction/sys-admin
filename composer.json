@@ -1,0 +1,11 @@
+{
+    "name": "enterprise/sysadmin",
+    "description": "企业级管定制管理权限模块",
+    "authors": [
+        {
+            "name": "muction-imac",
+            "email": "muction@yeah.net"
+        }
+    ],
+    "require": {}
+}
